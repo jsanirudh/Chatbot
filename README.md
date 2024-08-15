@@ -32,13 +32,6 @@ To get started with the chatbot code using Google Colab, follow the instructions
    - Execute the code cells in the notebook sequentially by selecting a cell and clicking the "Run" button (or pressing `Shift + Enter`).
    - Follow any on-screen instructions provided in the notebook to modify or enhance the chatbot.
 
-4. **Modify and Enhance:**
-   - You can modify the chatbot code as needed within the notebook.
-   - To implement the enhancements suggested, modify the code cells to improve NLU, context management, response generation, or any other aspect you wish to enhance.
-
-5. **Testing and Deployment:**
-   - Once your modifications are complete, test the chatbot within the notebook by running the relevant cells.
-   - You can further deploy the chatbot to a platform of your choice after testing.
 
 ### Additional Resources
 
